@@ -37,5 +37,5 @@
     "rdfs:range": {
         "@id": "xsd:float"
       }
-  }
+   }
 }
