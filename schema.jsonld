@@ -15,6 +15,9 @@
   {
     "@id": "dt4be:elevationOfRefHeight",
     "@type": "rdf:Property",
-    "rdfs:label": "elevationOfRefHeight"
+    "rdfs:label": "elevationOfRefHeight",
+    "rdfs:range": {
+        "@id": "schema:Float"
+      }
   }
 }
