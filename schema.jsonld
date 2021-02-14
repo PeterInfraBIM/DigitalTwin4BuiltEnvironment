@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "dt4be": "https://github.com/PeterInfraBIM/DigitalTwin4BuiltEnvironment/schema.jsonld/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  {
+    "@id": "dt4be:Building",
+    "@type": "rdfs:Class",
+    "rdfs:comment": "A building represents a structure that provides shelter for its occupants or contents and stands in one place. The building is also used to provide a basic element within the spatial structure hierarchy for the components of a building project (together with site, storey, and space).",
+    "rdfs:label": "Building"
+  }
+}
