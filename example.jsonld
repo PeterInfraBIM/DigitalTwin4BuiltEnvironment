@@ -1,0 +1,10 @@
+[
+  {
+    "@context": {"dt4be": "https://github.com/PeterInfraBIM/DigitalTwin4BuiltEnvironment/blob/main/schema.jsonld"}
+  },
+  {
+    "@type": "dt4be:Building",
+    "@id": "Building#1",
+    "dt4be:elevationOfRefHeight": "10.0"
+  }
+]
