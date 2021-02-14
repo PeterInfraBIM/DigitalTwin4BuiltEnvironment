@@ -6,8 +6,7 @@
       "dt4be": "https://github.com/PeterInfraBIM/DigitalTwin4BuiltEnvironment/blob/main/schema.jsonld#",
       "schema": "http://schema.org/",
       "xsd": "http://www.w3.org/2001/XMLSchema#"
-      }
-  },
+      },
   {
     "@id": "dt4be:Building",
     "@type": "rdfs:Class",
