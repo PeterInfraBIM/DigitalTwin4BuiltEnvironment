@@ -17,6 +17,9 @@
     "@type": "rdf:Property",
     "rdfs:label": "elevationOfRefHeight",
     "rdfs:comment": "Elevation above sea level of the reference height used for all storey elevation measures, equals to height 0.0. It is usually the ground floor level.",
+    "rdfs:domain": {
+        "@id": "dt4be:Building"
+      },
     "rdfs:range": {
         "@id": "schema:Float"
       }
