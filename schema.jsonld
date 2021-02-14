@@ -27,9 +27,9 @@
       }
   },
   {
-    "@id": "dt4be:ElevationOfTerrain",
+    "@id": "dt4be:elevationOfTerrain",
     "@type": "rdf:Property",
-    "rdfs:label": "ElevationOfTerrain",
+    "rdfs:label": "elevationOfTerrain",
     "rdfs:comment": "Elevation above the minimal terrain level around the foot print of the building, given in elevation above sea level.",
     "rdfs:domain": {
         "@id": "dt4be:Building"
