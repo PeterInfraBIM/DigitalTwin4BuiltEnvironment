@@ -1,0 +1,7 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dt4be: <https://github.com/PeterInfraBIM/DigitalTwin4BuiltEnvironment/> .
+
+dt4be:Building a rdfs:Class ;
+    rdfs:label "Building" ;
+    rdfs:comment "A building represents a structure that provides shelter for its occupants or contents and stands in one place. The building is also used to provide a basic element within the spatial structure hierarchy for the components of a building project (together with site, storey, and space)." .
