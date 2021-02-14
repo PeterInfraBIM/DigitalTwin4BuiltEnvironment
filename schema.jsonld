@@ -21,7 +21,7 @@
         "@id": "dt4be:Building"
       },
     "rdfs:range": {
-        "@id": "schema:Float"
+        "@id": "xsd:float"
       }
   }
 }
