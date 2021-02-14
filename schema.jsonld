@@ -25,5 +25,17 @@
     "rdfs:range": {
         "@id": "xsd:float"
       }
+  },
+  {
+    "@id": "dt4be:ElevationOfTerrain",
+    "@type": "rdf:Property",
+    "rdfs:label": "ElevationOfTerrain",
+    "rdfs:comment": "Elevation above the minimal terrain level around the foot print of the building, given in elevation above sea level.",
+    "rdfs:domain": {
+        "@id": "dt4be:Building"
+      },
+    "rdfs:range": {
+        "@id": "xsd:float"
+      }
   }
 }
